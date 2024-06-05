@@ -1,2 +1,3 @@
-# projeto-funcap
-Projeto destinado a teste para vaga desenvolvedor front end na FUNCAP
+# Projeto FUNCAP
+
+## Projeto destinado a vaga para desenvolvedor front end
